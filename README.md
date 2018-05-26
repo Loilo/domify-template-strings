@@ -1,3 +1,7 @@
+> **DEPRECATION NOTICE**: Due to a lack of usage and spare time, I'll no longer be maintaining this repository.
+> 
+> However, meanwhile Google also thought that using tagged template literals would be a great fit for composing DOM nodes, so take a look at their [`lit-html`](https://github.com/Polymer/lit-html) library as an alternative.
+
 # domify-template-strings
 
 > Interpolate DOM Nodes into ES2015 Template Strings
